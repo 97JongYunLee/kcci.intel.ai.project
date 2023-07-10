@@ -24,8 +24,9 @@
 
 ### Team 05 : Project name
 
-* 간략한 Project 소개
-* [https://github.com/zzz/yyy/zzz](https://github.com/zzz/yyy/zzz)
+* Voice-Guidance-Parking-Finder #1
+* https://github.com/97JongYunLee/Voice-Guidance-Parking-Finder
+
 
 ### Team 06 : Project name
 
